@@ -20,12 +20,12 @@
 ---
 
 ## Estrutura do Projeto
-> Camada|Tecnologias
->---|---
->Server|![node](https://img.shields.io/badge/node-8.11.2-yellow.svg) ![npm](https://img.shields.io/badge/npm-5.6.0-yellow.svg) ![express](https://img.shields.io/badge/express-4.x-yellow.svg)
->Persistência | ![redis](https://img.shields.io/badge/redis-2.8.0-red.svg)
->Client|![bootstrap](https://img.shields.io/badge/bootstrap-4.1.1-blue.svg) ![html](https://img.shields.io/badge/html-5-blue.svg) ![css](https://img.shields.io/badge/css-3-blue.svg) ![js](https://img.shields.io/badge/js-es6-blue.svg) ![js](https://img.shields.io/badge/jquery-3.1.1-blue.svg)
->DevSetup|![setup](https://img.shields.io/badge/repository-git-green.svg) ![setup](https://img.shields.io/badge/ide-visualstudio-green.svg) ![setup](https://img.shields.io/badge/browser-chrome-green.svg)
+Camada|Tecnologias
+---|---
+Server|![node](https://img.shields.io/badge/node-8.11.2-yellow.svg) ![npm](https://img.shields.io/badge/npm-5.6.0-yellow.svg) ![express](https://img.shields.io/badge/express-4.x-yellow.svg)
+Persistência | ![redis](https://img.shields.io/badge/redis-2.8.0-red.svg)
+Client|![bootstrap](https://img.shields.io/badge/bootstrap-4.1.1-blue.svg) ![html](https://img.shields.io/badge/html-5-blue.svg) ![css](https://img.shields.io/badge/css-3-blue.svg) ![js](https://img.shields.io/badge/js-es6-blue.svg) ![js](https://img.shields.io/badge/jquery-3.1.1-blue.svg)
+DevSetup|![setup](https://img.shields.io/badge/repository-git-green.svg) ![setup](https://img.shields.io/badge/ide-visualstudio-green.svg) ![setup](https://img.shields.io/badge/browser-chrome-green.svg)
 
 ## Descrição
 A proposta do projeto é expor uma pequena plataforma web para geração de CRUD HTML a partir de uma endidade do banco de dados.
@@ -82,12 +82,12 @@ A proposta do projeto é expor uma pequena plataforma web para geração de CRUD
 
 ## Estrutura do Projeto
 
-> Camada|Tecnologias
->---|---
->Server|![node](https://img.shields.io/badge/node-8.11.2-yellow.svg) ![npm](https://img.shields.io/badge/npm-5.6.0-yellow.svg) ![express](https://img.shields.io/badge/express-4.x-yellow.svg)
->Util | ![swagger](https://img.shields.io/badge/swagger-0.7.5-red.svg)
->Client|![bootstrap](https://img.shields.io/badge/bootstrap-4.1.1-blue.svg) ![html](https://img.shields.io/badge/html-5-blue.svg) ![css](https://img.shields.io/badge/css-3-blue.svg) ![js](https://img.shields.io/badge/js-es6-blue.svg) ![js](https://img.shields.io/badge/jquery-3.1.1-blue.svg)
->DevSetup|![setup](https://img.shields.io/badge/repository-git-green.svg) ![setup](https://img.shields.io/badge/ide-visualstudio-green.svg) ![setup](https://img.shields.io/badge/browser-chrome-green.svg)
+Camada|Tecnologias
+---|---
+Server|![node](https://img.shields.io/badge/node-8.11.2-yellow.svg) ![npm](https://img.shields.io/badge/npm-5.6.0-yellow.svg) ![express](https://img.shields.io/badge/express-4.x-yellow.svg)
+Util | ![swagger](https://img.shields.io/badge/swagger-0.7.5-red.svg)
+Client|![bootstrap](https://img.shields.io/badge/bootstrap-4.1.1-blue.svg) ![html](https://img.shields.io/badge/html-5-blue.svg) ![css](https://img.shields.io/badge/css-3-blue.svg) ![js](https://img.shields.io/badge/js-es6-blue.svg) ![js](https://img.shields.io/badge/jquery-3.1.1-blue.svg)
+DevSetup|![setup](https://img.shields.io/badge/repository-git-green.svg) ![setup](https://img.shields.io/badge/ide-visualstudio-green.svg) ![setup](https://img.shields.io/badge/browser-chrome-green.svg)
 
 ## Descrição
 A proposta do projeto gerador de documentação swagger (REST) em formato de formulário com previewer JSON. No formato onde possa ser feita a entrada dos dados no seguinte formato:
